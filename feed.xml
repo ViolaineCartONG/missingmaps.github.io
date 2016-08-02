@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-02T12:21:04-04:00</updated><id>/</id><title>Missing Maps</title><entry xml:lang="en"><title>Mapping Every Detail</title><link href="/blog/2016/08/02/mapping-every-detail/" rel="alternate" type="text/html" title="Mapping Every Detail" /><published>2016-08-02T00:00:00-04:00</published><updated>2016-08-02T00:00:00-04:00</updated><id>/blog/2016/08/02/mapping-every-detail</id><content type="html" xml:base="/blog/2016/08/02/mapping-every-detail/">&lt;h2 id=&quot;emerging-cities&quot;&gt;Emerging cities&lt;/h2&gt;
+
+&lt;p&gt;The term ‘city’ often elicits an image of towering metropolises. However, this image is more consistent with cities found in already developed nations. For the many towns and evolving communities in still developing countries, we have a different classification: ‘emerging cities’. These emerging cities are at the center of development, showing rapid population growth as an increasing number of people leave villages to pursue opportunity in these cities. In these epicenters of commerce, a wide range of commodities can be found in markets as people innovate and continue to improve their livelihoods. In all of this, we see promise as humanity advances and lives and communities continue to improve.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160802_city.jpg&quot; alt=&quot;Emerging cities, emerging promise.&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Emerging cities, emerging promise. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;why-map&quot;&gt;Why map?&lt;/h2&gt;
+
+&lt;p&gt;These emerging cities are bustling hubs of activity: services deliver and transport goods, factories create products, government institutions and various NGO’s reach out and work to create development programs that benefit the community. Schools, health facilities and markets serve as hosts for residents of neighboring communities and villages.&lt;/p&gt;
+
+&lt;p&gt;In West Africa, these emerging cities are spread everywhere. Their population is increasing and they are growing. One thing is similar across all of them, nothing or not much is mapped.&lt;/p&gt;
+
+&lt;p&gt;After initially sending volunteers to record all the population centres in the border regions, we then selected some emerging cities in Liberia, Guinea and Sierra Leone to map in their entirety. Volunteers spend hours and days moving from one corner of the city to the other mapping every mappable entity, capturing every detail.&lt;/p&gt;
+
+&lt;p&gt;Mapping these expanding cities provides more precise information on the whereabouts of services and amenities like police stations, theaters, hospitals and hotels. When I was in Kenema City, Sierra Leone I just wanted to go to a particular hotel. It took me several stops at various corners of the city asking for the location but no one I asked knew and it had not yet been mapped into OpenStreetMap. By creating an open repository of geographic data, we are working to establish a more complete and reliable resource that will prevent more experiences like the one I had in Kenema City.&lt;/p&gt;
+
+&lt;p&gt;Mapping these cities can have a greater effect than just improved information about the location of buildings and services. Just recovering from the worst disease outbreak of recent history, Liberia, Guinea and Sierra Leone are picking themselves up and preparing to better deal with future disasters. Mapping the emerging cities in West Africa and the surrounding region is a relevant and vital part of this preparedness. Mapping the infrastructure in emerging cities can help immensely in disaster response situations. Because diseases outbreaks are a disaster that has a high potential to spread across international borders and destabilize economies, mapping these cities and regions carries an even greater importance than previously realized.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-city-at-the-center-of-the-outbreak&quot;&gt;A city at the center of the outbreak&lt;/h2&gt;
+
+&lt;p&gt;Located in the south of Guinea, the city of Gueckedou is one of the major gateways to the country. Decades ago it was known for its international weekly market every Wednesday. Vendors and buyers would start arriving a day before in preparation for the millions of Guinean Francs that would change hands. It attracted traders from Côte d’Ivoire, Senegal, Mali, Liberia and Sierra Leone. Traded goods were even taken on to Conakry, the capital city.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160802_market.jpg&quot; alt=&quot;Market day in Gueckedou&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Market day in Gueckedou. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The wars of Liberia and Sierra Leone reached the beautiful city and changed the story. For a time, rebels and the Guinea military battled in the city, but eventually the violence ended and life returned to normal. Then in December 2013 the first death from Ebola occurred and still other deaths followed. At that time the city was not mapped, so Humanitarian OpenStreetMap Team volunteers and others traced the buildings and roads in the region in response to the crisis. The data was crucially important.&lt;/p&gt;
+
+&lt;p&gt;“By 7:00pm, the entire city would almost be deserted. It was death in the city.” Bayo, a former volunteer with MSF narrates to me, “My colleagues and I would move to many place and it was always the same, a state of fear and uncertainty. One of our volunteer colleagues lost the battle to Ebola as did many other people. But this one was particularly painful to me because we were out there saving lives, I don’t know what went wrong on a particular day and he got the virus. He couldn’t make it.”&lt;/p&gt;
+
+&lt;p&gt;He continues, “If any one became sick in that time, your family would desert you. I remember suffering from typhoid in that period, and every one at home thought it was Ebola, it was a very hard time being rejected and isolated by my own family. Access to the villages for contact tracing, treating the sick or for burial was hard due to the nature of the roads. Worse still, it was hard to navigate to some of these places without a map, especially in the beginning phases. But later on, we got maps and it was easier to find the villages.”&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-ahead&quot;&gt;Looking ahead&lt;/h2&gt;
+
+&lt;p&gt;Celestine Kamano is one of our Field Team Leaders in Guinea. Despite being a recent graduate in Linguistic Science, Celestine has been using his brother’s laptop to learn to map whenever he is not in the field collecting data. When our work started he had not found a job yet. Hte was successful in applying for and joining our team. Now he is thinking of changing his career to better contribute to his country through mapping. “I am saving up to buy a laptop so that I can always be able to map my country. This project has opened my eyes. There are a lot of things not mapped here, and now I know that I can make a contribution to my country by mapping. Through going to very many communities within the 15 kilometre radius, I have seen how life is from community to community. This has given me a lot of reflection on what my country and communities are. I am already thinking of how I can help; I will start with mapping.”&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160802_celestine.jpg&quot; alt=&quot;Celestine mapping&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Celestine mapping. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The other day, a project manager for another of the projects going on in Gueckedou was thanking us at the Mapping Hub for reducing his burden.&lt;/p&gt;
+
+&lt;p&gt;In one town, after explaining why we are mapping and how useful it is, a lady came running after our volunteers to ask that her house be mapped.&lt;/p&gt;
+
+&lt;p&gt;In another community, while mapping was going on, we took time to view submissions to the server to show the volunteers real time results from their efforts. The volunteers were with a local leader from this community, and as we started viewing the uploads and the mapped buildings, a group of young men came as well to steal a look. Judging by their enthusiastic looks at our work, those young men are potential mappers.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160802_server.jpg&quot; alt=&quot;Viewing submissions&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Viewing submissions to the server in the field. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These stories are true for many other cities and places across Africa. Mapping is integral to the development of nations of the world, and the local knowledge of communities that is necessary to mapping is best provided by people who live and stay in those places.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that the importance of this mapped data is not limited to disaster response. With it, nations and governments can better understand the problems and challenges facing them and use this information to make steps towards prevailing over those challenges. There is tremendous power in knowledge, which is acquired through analysis of gathered data. In this case, governments, organizations, and civil society are benefiting from a tremendous volume of relevant data gathered by the local population and stored in a place accessible by anybody – OpenStreetMap.&lt;/p&gt;</content><author><name>David Luswata</name></author><category term="blog" /><category term="Red Cross" /><category term="Field Mapping" /><category term="West Africa" /><category term="Ebola" /><category term="MSF" /><summary>After initially sending volunteers to record all the population centres in the border regions, we then selected some emerging cities in Liberia, Guinea and Sierra Leone to map in their entirety. Volunteers spend hours and days moving from one corner of the city to the other mapping every mappable entity, capturing every detail.</summary></entry><entry xml:lang="en"><title>What’s new with MapSwipe</title><link href="/blog/2016/08/01/mapswipe-update/" rel="alternate" type="text/html" title="What's new with MapSwipe" /><published>2016-08-01T00:00:00-04:00</published><updated>2016-08-01T00:00:00-04:00</updated><id>/blog/2016/08/01/mapswipe-update</id><content type="html" xml:base="/blog/2016/08/01/mapswipe-update/">&lt;h2 id=&quot;get-the-latest-mapswipe-update-and-you-will-find-a-whole-load-of-improvements&quot;&gt;Get the latest MapSwipe update and you will find a whole load of improvements!&lt;/h2&gt;
+
+&lt;p&gt;Following &lt;a href=&quot;http://www.missingmaps.org/blog/2016/07/22/mapswipe-progress-and-feedback/&quot;&gt;the excellent feedback so many of you sent us&lt;/a&gt;, our team has been hard at work to get the next &lt;a href=&quot;http://mapswipe.org/&quot;&gt;MapSwipe&lt;/a&gt; update out.&lt;/p&gt;
+
+&lt;p&gt;The biggest challenge was that of &lt;strong&gt;repeated imagery&lt;/strong&gt;. Previously, you probably had suspicions that you were mapping the same areas over and over again. Unfortunately, you were right. This was due to a bug in the distribution algorithm and is now fixed. You should now be mapping in new areas every time you charge up the app! One sad consequence of this is that, while projects looked like they were finished, not all the areas within them had been mapped. As a result , you will notice that the completion rates on some missions on the homescreen have dropped significantly. Although this looks like a negative outcome, what it actrually means is that we will get through projects much faster now, as you guys cover a wider area more efficiently. So, keep mapping! Those percentages will fly up!&lt;/p&gt;
+
+&lt;p&gt;Some of you experienced &lt;strong&gt;perpetual loading screens&lt;/strong&gt; in certain missions and this has also been fixed. However, if you do experience either repeated imagery or perpetual loading, we have added another button to each mission screen called &lt;em&gt;Bugs? Clear project data&lt;/em&gt;. Hitting this button should reset your data for that particular mission, meaning these issues should no longer exist…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Guidance&lt;/strong&gt; was flagged as lacking within MapSwipe. While most of you are enjoying the the usability of the app, many of you wanted more help understanding exactly what you were being asked to identify. You should now see a &lt;em&gt;Tutorial&lt;/em&gt; button in each mission which will take you &lt;a href=&quot;http://www.missingmaps.org/blog/2016/07/18/mapswipetutorial/&quot;&gt;to this blog post&lt;/a&gt;. We will be working to improve the blog post itself over the next few days as well. &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe5-LIScH0URlymhTzXAyrbTJUEMmfBvWfBVuW38Zw9PnxPzA/viewform?c=0&amp;amp;w=1&quot;&gt;Your feedback is always welcome&lt;/a&gt; to help us make this better.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://wiki.openstreetmap.org/w/images/thumb/2/2e/MSSS11.JPG/344px-MSSS11.JPG&quot; alt=&quot;New features&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;New features on the mission pages&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Other than that, there are a few other small usability tweaks that should make your MapSwiping faster and smoother.&lt;/p&gt;
+
+&lt;p&gt;We hope that you enjoy these changes… We are still working on &lt;strong&gt;open sourcing the code&lt;/strong&gt; via github and developing an &lt;strong&gt;exporter&lt;/strong&gt;, so you can download and use the data as well as contributing to it. Watch this space for more news…&lt;/p&gt;
+
+&lt;p&gt;We would also like to provide MapSwipe information in &lt;strong&gt;languages other than English&lt;/strong&gt;. If you’d like to contribute to this, &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1rWkOUze6GTagZDnKEENdYxGjlOaAC1PUL0AvoHxBSY0/edit?usp=sharing&quot;&gt;there is a shared spreadsheet here&lt;/a&gt;. Please feel free to add the name of your language to the column header and translate the highlighted cells. We will add new languages into the app in the near future.&lt;/p&gt;
+
+&lt;p&gt;Your feedback and bug reports are still more than welcome, via the &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe5-LIScH0URlymhTzXAyrbTJUEMmfBvWfBVuW38Zw9PnxPzA/viewform?c=0&amp;amp;w=1&quot;&gt;feedback form&lt;/a&gt; or &lt;a href=&quot;https://github.com/mapswipe/app-feedback/issues&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank you all for helping us make MapSwipe fly! We are so pleased that so many of you are choosing to help humaniatarian organisations by MapSwiping the areas in which they are providing for vulnerable communities. Keep up the great work!&lt;/strong&gt;&lt;/p&gt;</content><author><name>Pete Masters</name></author><category term="[&quot;MapSwipe&quot;]" /><category term="MSF" /><category term="Tech" /><summary>Following the excellent feedback so many of you sent us, our team has been hard at work to get the next update out. Get the details, here!</summary></entry><entry xml:lang="en"><title>MapSwipe… Feeding back on your feedback</title><link href="/blog/2016/07/22/mapswipe-progress-and-feedback/" rel="alternate" type="text/html" title="MapSwipe... Feeding back on your feedback" /><published>2016-07-22T00:00:00-04:00</published><updated>2016-07-22T00:00:00-04:00</updated><id>/blog/2016/07/22/mapswipe-progress-and-feedback</id><content type="html" xml:base="/blog/2016/07/22/mapswipe-progress-and-feedback/">&lt;p&gt;So, your response to &lt;a href=&quot;http://mapswipe.org/&quot;&gt;MapSwipe&lt;/a&gt; has been phenomenal, already!&lt;/p&gt;
+
+&lt;p&gt;More than 5,000 users are already helping us to put vulnerable communities on the map, so NGOs and local organisations can better reach them with medical care and humanitarian assistance.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/thumb/2/2e/Mapswipe_lockup_blackclear.png/640px-Mapswipe_lockup_blackclear.png&quot; alt=&quot;MapSwipe logo&quot; href=&quot;http://mapswipe.org/&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We have also had an amazing response in terms of feedback and bug reports. This is vital for us to be able to prioritise where we put our efforts going forward with MapSwipe. I want to address the most common of these feedbacks, but also invite everyone to let us know what you think. There are two ways of leaving feedback and reporting bugs. The first is via &lt;a href=&quot;http://bit.ly/MapSwipeFBack&quot;&gt;this feedback form&lt;/a&gt; and the second is via &lt;a href=&quot;https://github.com/mapswipe/app-feedback/issues&quot;&gt;the MapSwipe github&lt;/a&gt; (more on this below).&lt;/p&gt;
+
+&lt;h2 id=&quot;repeating-satellite-imagery&quot;&gt;Repeating satellite imagery&lt;/h2&gt;
+
+&lt;p&gt;Many people are reporting that they MapSwipe the same images more than once. This is happening. The reason is that the algorithm chooses the least mapped image for you to work on. As so many people are mapping at once, you will sometimes get this area more than once. Do not worry, this does not mean no-one else is mapping this area. We are working to fix this now.&lt;/p&gt;
+
+&lt;h2 id=&quot;lack-of-guidance--tutorials&quot;&gt;Lack of guidance / tutorials&lt;/h2&gt;
+
+&lt;p&gt;Many users have asked for more in the way of guidance. This relates to what to look for and how to spot it, rather than how to use the app technically. As soon as we found out that you felt this was lacking, we put together a tutorial on the Missing Maps blog. As nearly a thousand people have already been to read it, we see that it is needed! We will integrate it better into the app itself as soon as possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;no-code-on-the-github&quot;&gt;No code on the GitHub&lt;/h2&gt;
+
+&lt;p&gt;This is true. It won’t be for long - it’s near the top of the to-do list! We will also be making the app available via the apk for those that don’t use google or iOS app stores.&lt;/p&gt;
+
+&lt;h2 id=&quot;progress-bars-are-stuck-on-the-individual-missions&quot;&gt;Progress bars are stuck on the individual missions.&lt;/h2&gt;
+
+&lt;p&gt;Yes they are. This is being fixed now. And, don’t worry - the data is safe! Keep mapping!&lt;/p&gt;
+
+&lt;h2 id=&quot;languages-other-than-english&quot;&gt;Languages other than English&lt;/h2&gt;
+
+&lt;p&gt;Apologies for this, but at the moment we don’t have the capacity for supporting multiple languages. Huge thanks to all that have offered to translate. Watch this space for news on this in the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please keep in mind that this application is brand new, and we understand that it is not yet polished. We’re working as hard as we can to make the experience smoother, so please don’t get discouraged if it doesn’t work quite like it ought to (and please keep submitting those bug reports)!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’d like to leave you with an excellent MapSwipe video made by Map Men. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=mwRdtnfFcUw&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/mwRdtnfFcUw/0.jpg&quot; alt=&quot;MapSwipe by Map Men&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Pete Masters</name></author><category term="[&quot;MapSwipe&quot;]" /><category term="MSF" /><category term="Tech" /><summary>We have had an amazing response to MapSwipe in terms of the mapping you have done, but also your feedback and bug reports. We are listening! Find out here what we are doing to address the most common issues.</summary></entry><entry xml:lang="en"><title>MapSwipe Tutorial</title><link href="/blog/2016/07/18/mapswipetutorial/" rel="alternate" type="text/html" title="MapSwipe Tutorial" /><published>2016-07-18T00:00:00-04:00</published><updated>2016-07-18T00:00:00-04:00</updated><id>/blog/2016/07/18/mapswipetutorial</id><content type="html" xml:base="/blog/2016/07/18/mapswipetutorial/">&lt;h2 id=&quot;mapswipe-how-to-map-from-the-satellite-imagery&quot;&gt;MapSwipe: How to map from the satellite imagery!&lt;/h2&gt;
+
+&lt;p&gt;First of all, thank you so much for contributing to the Missing Maps project via &lt;a href=&quot;http://mapswipe.org&quot;&gt;MapSwipe&lt;/a&gt;. We are blown away by your response so far!&lt;/p&gt;
+
+&lt;p&gt;Many of you have been in touch to give your comments, suggestions and bug reports. We’d like to try and address one of the main requests: guidance on mapping from the satellite imagery.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;MapSwipe pro tip - did you know if you hold down a tile it will zoom so that you see it more carefully?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mapping is never straightforward. Buildings and roads differ hugely from country to country. This blog post aims to give some examples but is by no means comprehensive. In the future, we also hope to build training and support into the app. Please feel free to keep your feedback coming!&lt;/p&gt;
+
+&lt;p&gt;We will be looking at imagery from the Niger State (Nigeria) missions for the following items:&lt;/p&gt;
+
+&lt;h3 id=&quot;buildings&quot;&gt;Buildings:&lt;/h3&gt;
+
+&lt;p&gt;There are &lt;strong&gt;two main types of building in this area; rectangular structures with metal or wooden roofs and round huts with roofs of straw&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/e/e2/MSSS3.JPG&quot; alt=&quot;Building examples&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Building examples&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The rectangular buildings are much easier to spot as they are generally square and usually fairly large. The round huts, however, are often smaller and blend more into the landscape. You can see the differences in the examples below.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/8/82/MSSS1.JPG&quot; alt=&quot;Rectangular buildings&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Rectangular buildings&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The &lt;strong&gt;round huts can&lt;/strong&gt; be differentiated from natural features, such as trees and rocks because they usually appear to be a (near-perfect) circle. They are also often grouped together into villages or hamlets.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/5/51/MSSS2.JPG&quot; alt=&quot;Round huts&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Round huts&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It is very important that we try and identify all structures in this task, so take your time when swiping and look out for these groups of shapes. &lt;strong&gt;Remember, if you are unsure you can always tap it twice to turn the tile yellow indicating “maybe”.&lt;/strong&gt; It is often better to be on the safe side and tap to indicate a feature as other mappers will review and map the areas you have identified.&lt;/p&gt;
+
+&lt;h3 id=&quot;roads&quot;&gt;Roads:&lt;/h3&gt;
+&lt;p&gt;Road and tracks are sometimes easy to see and sometimes very faint in the satellite imagery. Major roads are usually obvious, but the smaller paths can be tricky to identify. Many people have asked whether we want them to map just major roads or paths and tracks as well. Unfortunately, it is not that simple!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/c/c4/MSSS4.JPG&quot; alt=&quot;Road example&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Road example&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What we need is the &lt;strong&gt;road networks&lt;/strong&gt;. This will always include well-established roads. Does it include tracks and paths? Sometimes!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/2/28/MSSS5.JPG&quot; alt=&quot;Road and path examples&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Road and path examples&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If a &lt;strong&gt;track or a path&lt;/strong&gt; leads to a village or hamlet (or to a larger road), we need to know where it is. If it leads to a field, it is not necessary to map. However, because you only have a limited view of the area, it is often difficult to tell. It’s a good idea to swipe left and right to see if you can see where the path or track goes.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/2/20/MSSS6.JPG&quot; alt=&quot;Dead end path examples&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Dead end path examples&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;So, where you see that a track or path ends before hitting a village, hamlet or another road, please ignore it. Otherwise, please identify it. &lt;strong&gt;Remember, if you are unsure you can always tap it twice to turn the tile yellow indicating “maybe”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;rivers-and-river-beds&quot;&gt;Rivers and river beds&lt;/h3&gt;
+
+&lt;p&gt;In the example above, you can see there is a &lt;strong&gt;dry riverbed&lt;/strong&gt;. We are not generally asking for waterways to be mapped in these tasks, but &lt;strong&gt;it looks like this one is also used as a path&lt;/strong&gt;, so we would ask for it to be mapped.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/a/ae/MSSS7.JPG&quot; alt=&quot;River bed example&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;River bed example&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Often, you can identify a river because they meander, whereas roads tend to go straight from one place to another. Swipe left and right to see how the feature moves if you can.&lt;/p&gt;
+
+&lt;p&gt;If you are unsure of anything, it might be best to double tap the area to indicate a possible feature as other mappers will come later to map the areas you have identified and they will be able to check.&lt;/p&gt;
+
+&lt;h3 id=&quot;bad-imagery-and-clouds&quot;&gt;Bad imagery and clouds&lt;/h3&gt;
+
+&lt;p&gt;By triple tapping on a square turning the tile red, you can indicate that you cannot see the landscape. This could be because you have encountered &lt;strong&gt;an absence of imagery, poor quality imagery or clouds&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The ‘'’camera icon’’’ in the first example means there is no imagery available for this area. Triple tapping here is important because it lets us know where we need to find alternative sources for imagery.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/c/ce/MSSS8.JPG&quot; alt=&quot;Missing imagery example&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Missing imagery example&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the second example, you would triple tap because the cloud is obscuring your view of the area.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/c/c9/MSSS9.JPG&quot; alt=&quot;Cloudy imagery example&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Cloudy imagery example&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;However, in the third example, there is a little cloud, but you can see clearly that there is nothing underneath it, so you can swipe this one.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/9/92/MSSS10.JPG&quot; alt=&quot;Cloudy imagery example&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Cloudy imagery example&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;and-finally&quot;&gt;And, finally…!&lt;/h3&gt;
+&lt;p&gt;We hope this is a useful resource for you. Please feel free to share it so others may also benefit. If you have any feedback on this or any other aspects of MapSwipe, please feel free to use the &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe5-LIScH0URlymhTzXAyrbTJUEMmfBvWfBVuW38Zw9PnxPzA/viewform?c=0&amp;amp;w=1&quot;&gt;feedback form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, remember that no one person is responsible for any area. Multiple people look at every tile. If you miss something, others might see it. Although, obviously, please try not to miss anything ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thanks again for helping humanitarians…..&lt;/strong&gt;&lt;/p&gt;</content><author><name>Pete Masters</name></author><category term="[&quot;MapSwipe&quot;]" /><category term="MSF" /><category term="Tech" /><summary>MapSwipe relies on users being able to interpret what they see in the satellite imagery provided. This tutorial gives some guidance on how best to do that.</summary></entry><entry xml:lang="en"><title>MapSwipe</title><link href="/blog/2016/07/14/mapswipe/" rel="alternate" type="text/html" title="MapSwipe" /><published>2016-07-14T00:00:00-04:00</published><updated>2016-07-14T00:00:00-04:00</updated><id>/blog/2016/07/14/mapswipe</id><content type="html" xml:base="/blog/2016/07/14/mapswipe/">&lt;h2 id=&quot;mapswipe-with-every-swipe-and-tap-you-help-put-families-on-the-map&quot;&gt;MapSwipe: With every swipe and tap, you help put families on the map&lt;/h2&gt;
+
+&lt;p&gt;Downloading &lt;a href=&quot;http://mapswipe.org/&quot;&gt;MapSwipe&lt;/a&gt; means that in a matter of minutes you can contribute to the work being done around the world by MSF, the Red Cross and others, and all from the comfort of your own phone!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/thumb/d/dc/DSC_0355.JPG/640px-DSC_0355.JPG&quot; alt=&quot;Using MapSwipe&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Using MapSwipe&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In a humanitarian crisis, the location of the most vulnerable people is fundamental information for delivering food, shelter, medical care and other services where they are most needed. And, although it may be hard to believe, millions people around the world are not represented on any accessible map.&lt;/p&gt;
+
+&lt;p&gt;Part of the &lt;a href=&quot;http://www.missingmaps.org/&quot;&gt;Missing Maps project&lt;/a&gt;, MapSwipe enables anyone with a smartphone to contribute to the mapping of these vulnerable communities. &lt;a href=&quot;http://mapswipe.org/&quot;&gt;Download the app&lt;/a&gt;, choose a mission, read the instructions and get started! One tap identifies features, a second tap indicates possible features (if you’re not sure) and a third  flags cloudy or bad quality imagery areas.  If there is nothing to identify, just swipe to the next image! You can download imagery for offline MapSwiping on an underground train or plane, so say goodbye to your wasted commuter hours on Candy Crush or Angry Birds!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/thumb/1/14/Mapswipe_screens.PNG/640px-Mapswipe_screens.PNG&quot; alt=&quot;Screenshots from MapSwipe&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Screenshots from MapSwipe&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Developed by &lt;a href=&quot;http://www.msf.org.uk/&quot;&gt;Medecins Sans Frontieres / Doctors Without Borders (MSF)&lt;/a&gt;, MapSwipe serves a direct purpose for NGOs. For example, when MSF responds to major disease outbreaks with mass vaccination campaigns, hundreds of teams have to cover enormous areas (as in the &lt;a href=&quot;http://www.msf.org.uk/article/democratic-republic-of-congo-measles-an-epidemic-emergency&quot;&gt;measles outbreak in Democratic Republic of Congo last year&lt;/a&gt;). Now, with MapSwipe, we can give vaccination campaign coordinators a super-fast snapshot of &lt;a href=&quot;https://www.msf.org.uk/article/drc-saving-lives-with-remote-mapping&quot;&gt;where the population clusters are&lt;/a&gt;, helping them to send their teams to the locations where they are most needed to achieve maximum vaccination coverage.&lt;/p&gt;
+
+&lt;p&gt;The Missing Maps project is a collaborative project in which a large and committed community of NGOs, academic institutes, companies and most of all individual mappers map vulnerable areas in &lt;a href=&quot;http://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;. By using MapSwipe to identify where communities are located, you also give these mappers the ability to use their talents to map the towns and villages in these areas without having to search through miles of jungle and bush to find them, saving time and helping to put valuable data into the hands of field teams even faster.&lt;/p&gt;
+
+&lt;p&gt;So, get the app. Tell your friends. And, let us know what you think!&lt;/p&gt;
+
+&lt;p&gt;Happy mapping!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://wiki.openstreetmap.org/w/images/thumb/2/2e/Mapswipe_lockup_blackclear.png/640px-Mapswipe_lockup_blackclear.png&quot; alt=&quot;MapSwipe logo&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;NB. The satellite imagery we use is generously provided by Bing / Microsoft Corporation (who also make a huge amount of imagery available for OpenStreetMap). Unfortunately, a bug in the MapSwipe app currently prevents us from displaying attribution appropriately. We are working to get this fixed!&lt;/em&gt;&lt;/p&gt;</content><author><name>Pete Masters</name></author><category term="[&quot;MapSwipe&quot;]" /><category term="MSF" /><category term="Tech" /><category term="MapSwipe" /><summary>MapSwipe enables anyone with a smartphone to contribute to the mapping of these vulnerable communities. Download the app, choose a mission, read the instructions and get started!</summary></entry><entry xml:lang="en"><title>Trends of Transformation by Mapping in West Africa</title><link href="/blog/2016/07/11/trends-of-transformation/" rel="alternate" type="text/html" title="Trends of Transformation by Mapping in West Africa" /><published>2016-07-11T00:00:00-04:00</published><updated>2016-07-11T00:00:00-04:00</updated><id>/blog/2016/07/11/trends-of-transformation</id><content type="html" xml:base="/blog/2016/07/11/trends-of-transformation/">&lt;p&gt;Sierra Leone. Liberia. Guinea. Driving from one capital to another, from one end of the border to the other, I cannot help but notice that the last 27 years have been particularly difficult for life in these three greatly endowed countries. They form what is known as the Mano River Union (MRU). In 1989, the First Liberian Civil broke out, hundreds of thousands of lives were lost. Not long after this war started, in 1991 the Sierra Leone Civil war broke out. In 1997, it was thought that life had come back to normal in Liberia, but just two years later, backed by neighboring Guinea, the Second Liberia Civil war broke out. The impact and effects of each of these wars spilled so easily over to each one of its neighboring Mano River Union comrades. War drums have since 2003 been terminated, with a sincere living hope, that they will never sound again, ever. Moving through the border regions of the great countries, I easily notice the pain and impact the times of war have caused to the lives in these three countries. You so easily see houses, very well constructed, abandoned in the bushes no longer habited. Where are the inhabitants… do not ask that question.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160711_abandoned-house.jpg&quot; alt=&quot;Abandoned house&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Abandoned house. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Greatly endowed with the Atlantic Ocean, very many rivers, thick forests and great diamond and other mineral deposits, “Life has since then been on an upward scale. Every one going about their business, building a nation and a region again,” narrates my driver as we cruise through the potholed roads of Macenta Prefecture in Guinea on our way to Liberia. “It was so until something strange came among us. We had fought many battles, but this was to be different. We were fighting an enemy we could not see. We didn’t know where he came from, we had never heard or seen something like that.” he continues.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160711_osmand.jpg&quot; alt=&quot;Navigating&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Navigation using [OsmAnd](http://osmand.net/). CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It is called the Ebola Virus Disease (EVD). It’s one of the strangest disease outbreaks of recent history. As it were, a single case can turn into a full brown outbreak with in just days, if unknown or left unchecked. In 2014, in a small village in Guinea, it was thought to be a normal death, within weeks, it spread like a spirited fire. Spread across to Liberia and Sierra Leone and many other places. Life was extremely unbearable. As weeks went by, there was an increasing somber feeling sweeping across the region, people were dying. This outbreak was another great threat to the region. In January, March and June 2016, WHO declared the end of the EVD outbreak in Liberia, Sierra Leone and Guinea respectively. However, individuals departing and entering any of these countries are required to take temperature readings. This is still happening as well at all border crossings in the region.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160711_taking-temperature.jpg&quot; alt=&quot;Safety precautions&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Getting a temperature reading at a border crossing. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Our work in the recent couple of months has been to map communities in a 15Km buffer of the three countries’ borders – this was the region most affected by EVD. This has been achieved over and above our expectation. Each of these countries has had its challenges in mapping the communities, but the successes supersede the somewhat expected challenges. The border area forms an interior part of the three countries, with thick forests in most parts, many rivers and several types of wild animals. Roads are in indeed poorer conditions in these border areas, telecommunication signals unavailable in a vast part of the region and socio-economic facilities and services far-fetched in majority of the places. The power of volunteerism still reaches even to the very remotes village. Equipped with a mobile phone, &lt;a href=&quot;http://openmapkit.org/&quot;&gt;OMK&lt;/a&gt;, &lt;a href=&quot;https://opendatakit.org/&quot;&gt;ODK&lt;/a&gt;, &lt;a href=&quot;http://osmand.net/&quot;&gt;OsmAnd&lt;/a&gt; and &lt;a href=&quot;http://opensignal.com/&quot;&gt;OpenSignal&lt;/a&gt;, we sent volunteers to as many communities as people live in. Some places, a motorbike can’t reach, you have to walk for some hours to get to a community, or in some, grab a boat.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160711_volunteer-travel.jpg&quot; alt=&quot;Volunteer travel&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Travel by motorbike and foot may be the only way to reach some communities. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;With some volunteers not owning a smart phone, tests were done and the best volunteers were selected. With the excitement of the new tools to use, volunteers spread out to the entire region, first in Liberia, then Guinea and then Sierra Leone. Having lost several relatives and community members in the epidemic, the stories of these energetic and passionate volunteers drive me to map one more village, and want to teach whoever I can reach how to map. Many of them participated in contact tracing and community sensitization during the pandemic. Building on these basic tech skills, we are building a community that will continue to map these countries, putting the world’s most vulnerable people on the map.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160711_volunteer-mapping.jpg&quot; alt=&quot;Volunteer mapping&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;A volunteer gathering data from community members. CC-BY David Luswata.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One of the most rewarding moments is when volunteers ask to have these tools on their personal phones. They continue to frequent the Hub eager to take part in all that may be available. We are looking forward to having many hang around the Hub, analyzing and cleaning the data they having been collecting, and learning how to submit it and how to make edits to OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;The mapping of many of these communities, and other parts of the region in West Africa is making valuable data available to governments, different development partners and the local population, thus guiding and informing the trends of transformation in the region.&lt;/p&gt;</content><author><name>David Luswata</name></author><category term="blog" /><category term="Red Cross" /><category term="Field Mapping" /><category term="West Africa" /><category term="Ebola" /><summary>Our work in the recent couple of months has been to map communities in a 15 kilometre buffer of the borders of Sierra Leone, Liberia and Guinea – this was the region most affected by Ebola Virus Disease. This has been achieved over and above our expectation. Each of these countries has had its challenges in mapping the communities, but the successes supersede the somewhat expected challenges.</summary></entry><entry xml:lang="en"><title>Atom Feed</title><link href="/blog/2016/07/06/atomfeed/" rel="alternate" type="text/html" title="Atom Feed" /><published>2016-07-06T00:00:00-04:00</published><updated>2016-07-06T00:00:00-04:00</updated><id>/blog/2016/07/06/atomfeed</id><content type="html" xml:base="/blog/2016/07/06/atomfeed/">&lt;h2 id=&quot;subscribe-to-the-blog&quot;&gt;Subscribe to the blog&lt;/h2&gt;
+
+&lt;p&gt;In the year 2016 atom feeds are still very useful so we’ve added an atom feed to our blog. You can now subscribe to the &lt;a href=&quot;http://missingmaps.org/feed.xml&quot;&gt;feed&lt;/a&gt; and get the latest updates on Missing Maps.&lt;/p&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="Website" /><category term="Tech" /><summary>As the blog expands we added an atom feed so you can subscribe and get the latest updates on Missing Maps.</summary></entry><entry xml:lang="en"><title>Without Frontiers in Border Country</title><link href="/blog/2016/06/28/border-country/" rel="alternate" type="text/html" title="Without Frontiers in Border Country" /><published>2016-06-28T00:00:00-04:00</published><updated>2016-06-28T00:00:00-04:00</updated><id>/blog/2016/06/28/border-country</id><content type="html" xml:base="/blog/2016/06/28/border-country/">&lt;p&gt;‘Kondewakoro…’. I say it out-loud without meaning to. The young lad responds in Krio. Ahmet translates, although I’m starting to understand Krio. It is what I thought: ‘He says still three hours. 16 kilometers.’&lt;/p&gt;
+
+&lt;p&gt;We don’t have time. We have to turn back, but if I’ve got it wrong, there will be nowhere to stay back where we came from either.&lt;/p&gt;
+
+&lt;p&gt;Kondewakoro is a border village in the far reaches of the Toli Chiefdom of Kono District, Sierra Leone. AKA ‘Diamond Country’. On &lt;a href=&quot;http://www.openstreetmap.org/#map=7/8.500/-11.541&quot;&gt;OpenStreetMap&lt;/a&gt;, the only map of this corner of Africa, the road we are on shows as a decently defined yellow line. In England or Wales, it would be a tarmacced trunk road. We are not on tarmac, though. No, these roads, for all their ancient status, are not even really roads, more determined cuts through the bush.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_guinea-highway.jpg&quot; alt=&quot;Guinea highway&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;'The Guinea Highway'. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I am attempting to track down Sulaiman Charles, the teacher, but am wondering if this is a wild goose-chase all these hours down this bush track in ‘Zulu One-Five’, our trusty and iconic MSF Landcruiser. Getting battered about hour after hour, rock after rock, river after river. I have learned to trust Ahmet’s driving through these unlikely passages. I made an arrangement with Sulaiman to meet on the road to Kondewakoro over a broken phone conversation more than six hours ago. Sulaiman is an energetic spokesperson, a brilliant teacher with presence and vigour. He is one of my Field Team Leaders, in charge of six Sierra Leone Red Cross volunteers who are methodically surveying the missing, misnamed, and unrepresented villages of the border region for the Post-Ebola Community Rebuild project. Spearheaded by Missing Maps (American Red Cross, MSF, Humanitarian OpenStreetMap Team), it is a fundamental vulnerability assessment of at-risk areas where epidemics and natural disasters can run and spread for weeks un-checked.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_sulaiman-chiefdoms.jpg&quot; alt=&quot;Working the map&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Working the map (Sulaiman's Chiefdoms). CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We are here to correct the map, or more accurately, to leave the capacity for the inhabitants of Toli to map themselves. We have trained four other team leaders like Sulaiman – the best and brightest that the national border regions have to offer. We have also been training a cohort of supervised volunteers. Trained them in the classroom. But this is the bush. And now it is a question of finding them, as they map what can’t be mapped, and we, hampered by the very resistance factors which have prohibited this mapping for so long, are trying to support.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_health-centres.jpg&quot; alt=&quot;Mapping a health centre&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Volunteers putting a health centre on the map in Koinadugu District, aka 'The Land of the Powerful Mixture'. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In another chiefdom in the North I came across a border crossing into Guinea made of rickety palm-wood bars. I was reluctant to ‘snap’ the sleepy photogenic border-guard in his vest, standing under the words ‘Immigration’ pencilled on the flaking cement above the ‘office’ doorway. Things can escalate easily here. There are strict security protocols, and the sensitivity of this ‘porous’ borderland domain dictates that we follow strict MSF radio-contact schedules. We are in two-hourly contact with the radio-room in Freetown. A day away. Now, I would like to meet Sulaiman at the border, but we have a lot of ground to cover, and a six o’clock travel curfew to observe. This is no-man’s land. I am aware of the need for caution.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_young-biker.jpg&quot; alt=&quot;motorcycle&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;On the way to Kondewakoro. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And here we are with this young biker now, deep in the forest, on the way to Kondewakoro. His chinese-built 125cc road bike has toppled, as he has tried to come up the impossible rocky slope which we, somehow, are attempting to go down. He is laden with six large jerry cans of cow milk, but amazingly there has been no spillage, and we help him re-tie the load. The motorbike is low on its suspension, and the sweating rider is using all his bush-riding skills to snake the bike between the rocks, load and all. But where is Sulaiman? I note that he is young. Young enough to have recently been in school. As we help him get going again, I have a last-minute thought – he might know Sulaiman.&lt;/p&gt;
+
+&lt;p&gt;‘Red Cross Motorbike. Sulaiman the teacher. Have you seen him this way?’&lt;/p&gt;
+
+&lt;p&gt;Imperceptibly he nods, and says something. Ahmet interprets a Krio mutter and throw of the head.&lt;/p&gt;
+
+&lt;p&gt;‘He is here. Up ahead.’ A huge grin. Somewhere, down these rocks, through the next river, we will find him. Ahmet is visibly relieved. I knew I could trust Sulaiman, my ‘brother from another mother’, he has called me in the training sessions. But I’m relieved too.&lt;/p&gt;
+
+&lt;p&gt;‘…and is there another road?’ No. No other road. This is the only way to Kondewakoro. We get back into the Landcruiser which flops down the track between the boulders. It doesn’t feel possible yet, but we have somewhere to stay tonight. One hour to go until curfew. No turning back, but now it is certain that we will find him.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_loaded-motorbike.jpg&quot; alt=&quot;How to load a motorbike&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;How to load a motorbike. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And ten minutes later we literally almost run-over Sulaiman on his motorbike. Komba, the isolated volunteer tasked with this spur of the project is interviewing the Village Chief in a clearing. It turns out Komba is a star surveyor, with an amazing grasp of the job in hand. It is difficult to deliver the detailed survey, with its questions about water availability, its carefully crafted cross-referencing of sanitation and disease questions, road conditions and Healthcare access. But it has been worth coming to see how it is done properly.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_charging-phones.jpg&quot; alt=&quot;Wiring motorbikes to charge phones&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Missing Maps field consultation. Wiring motorbikes to charge phones. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;There has been a ‘Loma’ Market here today. It has been a hive of activity. As I look around this village, seemingly thriving in its own right, I can’t help wondering how on earth some of this actual concrete came to be here, given the impossible nature of the only road in. It will be a long time before these villages have convincing vehicular access, despite the fact that they are located on this footpath they call ‘The Guinea Highway’. This track, for better or worse, protects this village in some way, from invasion, but at the same time makes it vulnerable to a changing world around it.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_broken-crossing.jpg&quot; alt=&quot;Ooops&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Ooops. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As we photograph wells and water sources, with different surveys, the bigger picture which emerges is the sparsity of consistent water, and the dangerous propensity of water-contamination at source. Villages look well-ordered sometimes, but once surveys start to show exactly how many people actually use the water-sources, how often they dry-up, and how close to latrines (another resource we survey) they can be, the data starts to tell another story; desperate need and hard-boiled living in this disowned and precarious border area. I later geo-photograph two pumps in Kpetema – an ‘India MkII’ and a ‘Bush’ pump. Neither of them dries up in dry season, which makes Kpetema regionally important. We have come across several villages where women are washing in the ford we are crossing, and children carry water from the same river up the hill for drinking.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_river-water.jpg&quot; alt=&quot;Ooops&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;River ford. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These communities are susceptible to so much disease from so many quarters. When disaster occurs, their location needs to be traced. Whatever way the locals want it, it needs a name – particularly when some desperate community mobilisation team in the capital receive a dying patient and are trying to pinpoint the place they came from. Local names are important. Geo-tags are critical. Terror spreads as fast as the epidemic itself in these communities, and there are many instances of death resulting from panic as well as actual disease. The enemy is the unknown.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_well.jpg&quot; alt=&quot;Ooops&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It is the end of the day now, and gaving gathered for council on wooden benches, and sat through typically long-winded introductions with Mami-Queen and Chief, solemn nods were closely followed by furious handshakes (post-Ebola protocol thankfully now permits careful physical contact) and gentle curiosity. Part of the meeting ritual involved the explanation of the corrected name of this village. It moved because of forest fires decades ago, so what I have on my OpenStreetMap, ‘Kekeya’, compiled from old military or colonial data, needs adjusting and renaming. The Chief and the Youth Leader peered curiously over my shoulder as I renamed the village on my phone screen. Approving grunts at me spelling-out the proper village name give way to open-faced enthusiasm and laughing recognition of Chiefdoms and Sub-Chiefdoms so carefully researched by our team and so now available on our own &lt;a href=&quot;http://openmapkit.org/&quot;&gt;OpenMapKit&lt;/a&gt; app.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_osm-android.jpg&quot; alt=&quot;Ooops&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Screenshot with my GPS tracks from [OsmAnd](http://osmand.net/) – the everyman SatNav.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It has already been established that I am the evangelist in my team, and the people here, perhaps more than a proprietary-thinking western audience, get the publicly owned ethos of our OPEN StreetMap. Our data tools are not concerned with this one-time survey event. Our tools are what you could call ‘culturally scaleable’. They can be used by anyone who understands them, anyone with an android phone, and what we are fundamentally here to do is to spread the word. ‘Communities, map yourselves, on your own terms, [Arguably] before you become mapped by outsiders…’, is our message. This is the OpenSource Global Digital Revolution which can empower the marginalised across cultures.&lt;/p&gt;
+
+&lt;p&gt;And now the dim shape of the Landcruiser looms in the gloaming as I look out into the village from the out-patient’s waiting bench. Night is falling. Ahmet, my driver, is preparing the Landcruiser for the night. The sound of crickets and other forest insects almost drowns out the quiet African consonants being murmured over food amongst the houses across the track. The cool crescent of the moon is a welcome sight beckoning the forest woodsmoke to rise and meet it. In another part of Africa it has celestial pageantry which I know. I wonder, through the dusk, how they read the stars here. The old navigation envisaged by the new.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_night-falling.jpg&quot; alt=&quot;Dusk&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Night falls. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I shall sleep in the mud-built health outpost tonight. The nurse cooks under the palm kitchen roof, and I am sitting, fresh-washed and waiting for what will turn out to be a huge bowl of sweet rice and yoghurt. The pot is simmering on the fire already, gently steaming. I have done ‘Community Entry’. There are rules with village contact here, and society dictates that strangers initially approach the Chief. The performance of this tradition goes back in time, reflecting how outsiders have always been received into these isolated communities.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160628_road-signs.jpg&quot; alt=&quot;Dusk&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Signage. CC-BY Rupert Allan.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Later-on I lie under the mosquito net thinking. So: the terrain was too tough for even Zulu One-Five to make it to the border by curfew. Kondewakoro will wait for another time. But it is good to be here, and to have made contact with surveyors on their home territory. Despite the magic of mobile phone network when it is available, Sulaiman has made sure messages are sent through the traditional channels of communication (although drums here, it seems, are a thing of the past). Much as I trust the message of the digital innovation we have come to live by in the west, I know that tomorrow I will meet with Alice and Daniel for motorbike charging instruction and mapping survey technique and evaluation. Without fail.&lt;/p&gt;
+
+&lt;p&gt;The comforting village noises have given way to evocative night bush noises, and I drift off to sleep wondering who it was that first surveyed this village all those decades ago…&lt;/p&gt;</content><author><name>Rupert Allan</name></author><category term="blog" /><category term="Red Cross" /><category term="Field Mapping" /><category term="West Africa" /><category term="Ebola" /><category term="MSF" /><summary>Sierra Leone Red Cross volunteers are methodically surveying the missing, misnamed, and unrepresented villages of the border region for the Post-Ebola Community Rebuild project. Spearheaded by Missing Maps, it is a fundamental vulnerability assessment of at-risk areas where epidemics and natural disasters can run and spread for weeks un-checked.</summary></entry><entry xml:lang="en"><title>Water Access in Zimbabwe</title><link href="/blog/2016/06/07/zimbabwe/" rel="alternate" type="text/html" title="Water Access in Zimbabwe" /><published>2016-06-07T00:00:00-04:00</published><updated>2016-06-07T00:00:00-04:00</updated><id>/blog/2016/06/07/zimbabwe</id><content type="html" xml:base="/blog/2016/06/07/zimbabwe/">&lt;h2 id=&quot;missing-maps-saba-ward-binga-district-zimbabwe&quot;&gt;Missing Maps: Saba Ward, Binga District, Zimbabwe&lt;/h2&gt;
+
+&lt;p&gt;I recently spent a week in Binga District, with the Zimbabwe Red Cross Society, training their local volunteers to map Red Cross interventions in their communities, using OpenMapKit. The drought in southern Africa has heavily impacted the rural communities of Zimbabwe, where most of the communities rely on subsistence farming in their daily lives. Typically, men will work the farms during the day, while women will search for water. From the bridges over the dry river beds, you can see community members digging holes into the ground to attempt to reach the water table.&lt;/p&gt;
+
+&lt;p&gt;In 2014, the American Red Cross partnered with the Zimbabwe Red Cross society to extend a water pipeline in the Saba Ward of Binga District. This pipeline added an additional 15 km to an existing pipeline which stretches from Lake Kariba into Saba Ward. Schools, clinics, and communities now have access to this pipeline, and therefore access to drinkable water. Women in these communities no longer need to spend their day searching for water in a dry river bed, with no guarantee of success.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_pipesign.jpg&quot; alt=&quot;Pipeline Sign&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Sign highlighting the partners who implemented the pipeline project. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In addition to the pipeline access, the &lt;a href=&quot;http://www.redcross.org/what-we-do/international-services/where-we-help/africa/zimbabwe&quot;&gt;Building Resilient African Communities (BRACES)&lt;/a&gt; project has produced a number of other interventions in Saba Ward, as well as 3 other wards in Binga District. These interventions include water storage tanks, water taps, latrines, and cookstoves. Prior to my trip to Binga, I worked with the Zimbabwe Red Cross Society to identify the features in the region that they wanted to map.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-workshop&quot;&gt;Pre-Workshop&lt;/h2&gt;
+
+&lt;p&gt;Binga is about a three-and-a-half-hour drive from Victoria Falls. Binga District itself, is located in northwestern Zimbabwe sharing a border with Zambia, separated by Lake Kariba, the world’s largest man-made lake by volume.  The first part of the drive heads east alongside the Hwange National Park. The rest of the drive takes you north into Binga District, with endless skies and beautiful savanna grasslands.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_homestead.jpg&quot; alt=&quot;Homestead&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;A Tonga homestead in the savanna. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Prior to the start of the workshop, I joined representatives from the ZimCross Harare Office as well as the the provincial representative in meeting with the Binga District administrator. She graciously met with us on Monday morning, and identified herself first and foremost as a Red Cross volunteer. This was also the case with the representative of the Binga police with whom we met. It was great to see that the Zimbabwe Red Cross Society is so well received in the district, that officials hold their status as a volunteer in such a high regard.&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop&quot;&gt;Workshop&lt;/h2&gt;
+
+&lt;p&gt;At the the training center, I met the 12 volunteers who would be taking part in the workshop and assisting with the data collection. The volunteers were from Binga District, with a majority of them being from Saba Ward, so that their local knowledge of the area and people could assist in the planning and implementation of the mapping. We spent the first part of the day having conversations and discussing important features in the communities. One way we do this is by having the volunteers mark up an OpenStreetMap basemap that we bring with us. Each group of volunteers enjoyed speaking about their communities and what was important to them. On these maps, they drew water sources, markets, paths, and homes of their friends and families.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_mapping.jpg&quot; alt=&quot;Mapping Exercise&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;ZimCross staff and volunteers highlighting important points in their community. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the afternoon, we discussed and collaborated on the design of our form for OpenMapKit. Working with local stakeholders is one of the most important steps in creating a survey; they are the people who know what is important to their communities, and they are the people who will benefit from the data being collected. The discussions were mostly spoken in the Tonga language, which is spoken by the Tonga people in both Zimbabwe and neighboring Zambia. The ZimCross staff members would translate for me if there were any questions regarding implementation, but the conversations were driven by the ZimCross staff and the volunteers. We tried to limit the number of “fill-in-the-blank”-style questions to help ensure a better quality of data. Using the &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Map_Features&quot;&gt;OpenStreetMap Wiki Tagging Guide&lt;/a&gt; as a reference, we were able to build our form. After we had our OMK form set, we practiced.&lt;/p&gt;
+
+&lt;p&gt;With the Missing Maps project, we interact with a broad spectrum of volunteers: younger, older, tech-savvy, and some who may not have used a smartphone before, all driven by the goal of assisting their local Red Cross Society in its mission to alleviate suffering. The volunteers in Binga were no different. Some had worked on previous ZimCross mobile data collection projects, others had not. We spent time in the afternoon getting used to the phones (Samsung Galaxy series), and walking through the process we would be completing in the field. The volunteers were paired up and practiced the surveys at points around the training center.&lt;/p&gt;
+
+&lt;p&gt;The second day, we spend the morning recapping what we learned the previous day, and in the afternoon, went to the community of Siamwinde, which is outside of Saba Ward, but there are many of the similar interventions from the BRACES Project, such as latrines and cookstoves. After the data collection, we regrouped and discussed any obstacles faced in the field.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_toLatrine.jpg&quot; alt=&quot;Headed to Latrine&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Mapping a latrine in Siamwinde, built as part of the BRACES project. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;data-collection&quot;&gt;Data Collection&lt;/h2&gt;
+
+&lt;p&gt;Days 3 and 4 started at sunrise, as we began the hour-long drive to Saba Ward. We gave three groups a Garmin GPSMAP 64 device, which would be used to map the pipeline. The other groups were divided throughout the remainder of the area, with ZimCross staff acting as Field Team Leaders. I floated and was able to check on each group’s progress and troubleshoot any phone/GPS issues. It was hot. Temperatures reached into the 90s by mid-morning (and this was winter) but whenever we met with a volunteer group, we were greeted with the biggest smiles. On day 4, we had one group of volunteers, along with a field team leader, walk over 20km to reach the community of Kenjobo, where one of the volunteers was from. It was faster for these volunteers to walk the 20km than to drive the 140km to a closer approach. The dedication of the ZimCross volunteers remains an inspiration to me.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_scrum.jpg&quot; alt=&quot;Group Scrum&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;ZimCross staff and volunteers discussing the workplans for the day. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;While we met with one group, to determine the best location to have them walk to next, we spoke with a community member who knew which paths led to where. He told us the community we were trying to reach would be a difficult walk, several kilometers with some overgrown parts of the path. The volunteers said this distance was no problem, and started on their way. The community member responded “Okay then, just be careful of the landmines.” This was a sobering reminder of the conflicts and hardship that these communities have experienced, well within a generation’s time. The landmines in the area were remnants from the Zimbabwe War of Liberation during the 1960s and 70s and the conflicts that continued into the 1980s. Determining that this was an unsafe path to have the volunteers travel, the community we were trying to reach was not mapped as part of this project; however, that community has received interventions in the form of cookstoves and a latrine.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-data&quot;&gt;The Data&lt;/h2&gt;
+
+&lt;p&gt;After the second day of data collection, I submitted the data to our OpenMapKit server, and started looking at it and cleaning it up. Over 350 points were collected, including 161 cook stoves, 131 latrines, 32 taps, 5 storage tanks, 9 boreholes, in addition to the 24 km of pipeline was mapped. All of these locations have been added to OpenStreetMap, and are available for anyone to use. The Zimbabwe Red Cross Society can now visualize the impact they are having in the communities in which they serve. With the volunteers, we walked through the process of cleaning the data, and uploading it to OpenStreetMap. The most memorable moment of this trip for me, was showing the volunteers on our final day, the data they collected, on a map. Smiles stretched from ear-to-ear. One volunteer said, “I have never been able to see my community like this before, I can now go and show my community the great things that the Red Cross has brought to us.” This is the benefit of an open platform. OpenStreetMap and the Missing Maps project have enabled these volunteers, the same volunteers who helped dig the trench last year for the new pipeline, see the direct impacts in their community.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_map.jpg&quot; alt=&quot;Data Map&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Data collected by ZimCross Volunteers. All data has been added to OpenStreetMap Map Data: OpenStreetMap Contributors.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;other-trip-highlights&quot;&gt;Other Trip Highlights&lt;/h2&gt;
+
+&lt;p&gt;Lake Kariba has one of the highest densities of crocodiles and hippopotamuses in the world. These types of signs were common:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_signs.jpg&quot; alt=&quot;Warning Signs&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Warning signs in Binga. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It was incredible to look out over the lake in the evening as the sun was setting, and see lights begin to fill the lake, all from the fishing boats that fish at night. In such a rural area, it appeared as if a city were stretching the length of the lake.&lt;/p&gt;
+
+&lt;p&gt;All throughout the week I spent in Binga, I saw piles of “ele-poo” along the road, but we just kept missing them. After a quick trip to Victoria Falls before my flight, lo and behold, we saw six elephants heading to get a drink of water – quite the traffic jam on the commute to the airport.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_elephant.jpg&quot; alt=&quot;Elephant&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Close encounter with some elephants on the way back to the airport. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Baboons also enjoyed darting in front of traffic. Check out this picture we caught with our &lt;a href=&quot;http://www.mapillary.com/map/search/-18.14510808710267/26.603609478092864/9&quot;&gt;Mapillary Camera&lt;/a&gt; of a baboon running right in front of us.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_baboon.JPG&quot; alt=&quot;Baboon&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;A baboon runs in front of our car heading back to Victoria Falls. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Everywhere I’ve gone with the American Red Cross has been rewarding in its own way. I enjoy working alongside volunteers throughout the world all dedicated to the Red Cross Movement. I was told that in Zimbabwe if someone has a long journey ahead of them, they’ll say they are “traveling to Binga”. My trip to Binga, while literal, also took me further from home than I’ve ever been, but was welcomed by so many great volunteers. The Zimbabwe Red Cross Society’s volunteers put themselves on the map, and now have the ability to continue doing so.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160607_group.jpg&quot; alt=&quot;Group Picture&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Team of ZimCross staff and volunteers. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Matt Gibb</name></author><category term="blog" /><category term="Red Cross" /><category term="Field Mapping" /><category term="Zimbabwe" /><summary>Drought has been a common occurence in Southern Africa due to climate variability, driven primarily by the El Niño Southern Oscillation in the Pacific Ocean. This significantly increases the vulnerability of people living in rural areas. Since 2011, the American Red Cross has partnered with the Zimbabwe Red Cross Society, to identify and mitigate hazards, and to implement resiliency projects in the region.</summary></entry><entry xml:lang="en"><title>OpenStreetMap Country Stats</title><link href="/blog/2016/06/02/countrystats/" rel="alternate" type="text/html" title="OpenStreetMap Country Stats" /><published>2016-06-02T00:00:00-04:00</published><updated>2016-06-02T00:00:00-04:00</updated><id>/blog/2016/06/02/countrystats</id><content type="html" xml:base="/blog/2016/06/02/countrystats/">&lt;p&gt;Building an understanding of gaps left to be mapped means understanding what and how local OSM communities have been able to map. Working with some partners we created a simple Tableau visualization that shows the growth of OSM overtime. Visualizing the growth of an OSM community allows us to understand where the local community is in its growth and helps us determine what methods we might use to help build up the mapping community. Together with some other tools such as the &lt;a href=&quot;http://missingmaps.org/leaderboards&quot;&gt;Missing Maps leaderboards&lt;/a&gt; and &lt;a href=&quot;http://osm-analytics.org&quot;&gt;OSM Analytics&lt;/a&gt; we are building a great understanding of where the maps are missing. The country stats only looks at road length and road names. Road length is usually a good proxy for overall map coverage and road name is usually a good proxy for map quality. Overall map density continues to grow, the map is filling out thanks to a combination of dedicated local mappers and institutional actors like Missing Maps. It is truly impressive how much data has been added to the map in such a few short years. With more partners and projects we can do even more.&lt;/p&gt;
+
+&lt;p&gt;I’ve highlighted three countries that peaked my interest below.&lt;/p&gt;
+
+&lt;h2 id=&quot;united-states&quot;&gt;United States&lt;/h2&gt;
+&lt;p&gt;When I first looked at the stats the first thing that jumped out at me was the rapid increase of mapping data in the US. I wasn’t part of the project back then so I did a little research and found out that the increase is do the &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/TIGER&quot;&gt;TIGER Import&lt;/a&gt;. Seeing these types of massive data increases helps to understand how the mapping community has grown. These changes the way that we engage local mappers and community groups.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/TIGERImportAnimation.gif&quot; alt=&quot;TIGER Import&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;TIGER Import progress CC-BY-SA OSM&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;philippines&quot;&gt;Philippines&lt;/h2&gt;
+&lt;p&gt;My first real experience with HOT and OSM was Typhoon Haiyan in the Philippines. Remote volunteers contributed over 4.5 million map edits in just 3 months. I expected a huge spike in the road data during this period. However, after reviewing the numbers the is a small uptick in edits but its right in line with the overall organic growth of OSM data in the Philippines. The Philippines mapping community is one of the strongest and most dedicated group of mappers I know. The Philippines gets hit by an average of &lt;a href=&quot;https://en.wikipedia.org/wiki/Typhoons_in_the_Philippines&quot;&gt;20 typhoons a year&lt;/a&gt;. Having good data is very important to helping to save lives. Many groups including the local governments have switched to using OSM as the source for maps during disasters and the Philippine mapping is at the heart of this adoption and switch. How we as the Red Cross and Missing Maps work with them is drastically different than in Guinea.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/philippines.png&quot; alt=&quot;Philippines&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Philippines Stats&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;guinea&quot;&gt;Guinea&lt;/h2&gt;
+&lt;p&gt;Guinea has a much different history of map data. Prior to the &lt;a href=&quot;http://www.ifrc.org/en/news-and-media/news-stories/africa/guinea/red-cross-responds-to-ebola-outbreak-in-guinea--65316/&quot;&gt;2013 Ebola outbreak&lt;/a&gt; very little road data existed. Over the 18 or so months that HOT and others were involved you can clearly see the huge uptake in road length. The Guinea mapping community is still in its early days. We at the Red Cross are working to &lt;a href=&quot;http://localhost:3000/blog/2016/04/25/west-africa-mapping-hub-launch/&quot;&gt;grow both the map and the mapping community&lt;/a&gt; to help create the sustainable growth that we see in places like the Philippines.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/guinea_stats.jpg&quot; alt=&quot;Guinea&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Guinea Stats&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;country-stats&quot;&gt;Country Stats&lt;/h2&gt;
+&lt;p&gt;Explore the data yourself, select countries or groups of countries to see their data over time. Identify places where you can have an impact and &lt;a href=&quot;http://tasks.hotosm.org/?sort_by=priority&amp;amp;direction=asc&amp;amp;search=missing+maps&quot;&gt;go map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;script type=&quot;text/javascript&quot; src=&quot;https://public.tableau.com/javascripts/api/viz_v1.js&quot;&gt;&lt;/script&gt;
+  &lt;div class=&quot;tableauPlaceholder&quot; style=&quot;height: 1069px;&quot;&gt;
+    &lt;noscript&gt;
+      &lt;a href=&quot;#&quot;&gt;&lt;img alt=&quot;Dashboard 1 &quot; src=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Ma&amp;#47;MapLinkedChartv2_0&amp;#47;Dashboard1&amp;#47;1_rss.png&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+    &lt;/noscript&gt;
+    &lt;object class=&quot;tableauViz&quot; width=&quot;100%&quot; height=&quot;1069&quot; style=&quot;display:none;&quot;&gt;
+      &lt;param name=&quot;host_url&quot; value=&quot;https%3A%2F%2Fpublic.tableau.com%2F&quot; /&gt;
+      &lt;param name=&quot;site_root&quot; value=&quot;&quot; /&gt;
+      &lt;param name=&quot;name&quot; value=&quot;MapLinkedChartv2_0&amp;#47;Dashboard1&quot; /&gt;
+      &lt;param name=&quot;tabs&quot; value=&quot;no&quot; /&gt;
+      &lt;param name=&quot;toolbar&quot; value=&quot;yes&quot; /&gt;
+      &lt;param name=&quot;static_image&quot; value=&quot;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Ma&amp;#47;MapLinkedChartv2_0&amp;#47;Dashboard1&amp;#47;1.png&quot; /&gt;
+      &lt;param name=&quot;animate_transition&quot; value=&quot;yes&quot; /&gt;
+      &lt;param name=&quot;display_static_image&quot; value=&quot;yes&quot; /&gt;
+      &lt;param name=&quot;display_spinner&quot; value=&quot;yes&quot; /&gt;
+      &lt;param name=&quot;display_overlay&quot; value=&quot;yes&quot; /&gt;
+      &lt;param name=&quot;display_count&quot; value=&quot;yes&quot; /&gt;
+      &lt;param name=&quot;showTabs&quot; value=&quot;y&quot; /&gt;
+    &lt;/object&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="OSM Stats" /><category term="Tech" /><summary>Building an understanding of gaps left to be mapped means understanding what and how local OSM communities have been able to map. Working with some partners we created a simple Tableau visualization that shows the growth of road data in OSM over the past eight years.</summary></entry></feed>
